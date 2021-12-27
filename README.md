@@ -1,7 +1,10 @@
 # cancer_reg
 TASK : Predict the cancer mortality rate per capita (100000) using several demographic variables.
-Data Dictionary: 
-**Features** : 
+
+
+# Data Dictionary: 
+# **Features** : 
+
 avgAnnCount: Mean number of reported cases of cancer diagnosed annually
 
 avgDeathsPerYear: Mean number of reported mortalities due to cancer
@@ -68,5 +71,5 @@ PctMarriedHouseholds: Percent of married households
 
 BirthRate: Number of live births relative to number of women in county
 
-**Labels**:
+# **Labels**:
 TARGET_deathRate : Mean per capita (100,000) cancer mortalities
